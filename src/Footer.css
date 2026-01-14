@@ -1,0 +1,12 @@
+footer {
+  border-top: 1px solid #f9f7fe;
+  padding-top: 30px;
+  text-align: center;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+  font-family: roboto;
+}
+
+a {
+  color: #6c5ce7;
+}

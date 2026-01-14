@@ -11,7 +11,9 @@ export default function Header() {
           className="search-form-input"
           required
         />
-        <button type="submit">Search</button>
+        <button className="search-form-button" type="submit">
+          Search
+        </button>
       </form>
     </header>
   );

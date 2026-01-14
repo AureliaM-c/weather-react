@@ -7,7 +7,7 @@ export default function Footer() {
       </a>{" "}
       and is{" "}
       <a
-        href="https://github.com/AureliaM-c/Meteo-app"
+        href="https://github.com/AureliaM-c/weather-react"
         target="_blank"
         rel="noreferrer"
       >
